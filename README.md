@@ -1,16 +1,14 @@
-# login_app
+# GDSC Task App
 
-A new Flutter project.
+A Flutter project for login and sign up screens.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- This is a simple Sign Up and Login App developed using material3
+- The apk can be downloaded from the following link <a href='./Resources/app_release.apk'>Click Here</a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Working Demonstration
+### The working video is attached as follows:
+<video>
+<source src="./Resources/demo.mp4" type="video/mp4">
+</video>
