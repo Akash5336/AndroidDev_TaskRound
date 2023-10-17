@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412354955584",
+    "project_id": "loginapp-aeb2b",
+    "storage_bucket": "loginapp-aeb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412354955584:android:ac4583d0603af3f4bad2a5",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIk2hmctpVZFw08VLrzOVvBLJGJYCU64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
