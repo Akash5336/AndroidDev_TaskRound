@@ -9,6 +9,5 @@ A Flutter project for login and sign up screens.
 
 ## Working Demonstration
 ### The working video is attached as follows:
-<video>
-<source src="./Resources/demo.mp4" type="video/mp4">
-</video>
+https://github.com/Akash5336/AndroidDev_TaskRound/assets/44171593/08713138-bdb6-4132-8137-51533eb732f8
+
