@@ -5,7 +5,7 @@ A Flutter project for login and sign up screens.
 ## Getting Started
 
 - This is a simple Sign Up and Login App developed using material3
-- The apk can be downloaded from the following link <a href='./Resources/app_release.apk'>Click Here</a>
+- The apk can be downloaded from the following link <a href='./Resources/app-release.apk'>Click Here</a>
 
 ## Working Demonstration
 ### The working video is attached as follows:
